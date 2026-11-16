@@ -1,0 +1,132 @@
+{
+  "brand": "Lisa Style",
+  "contactMode": "whatsapp",
+  "phone": "96171358363",
+  "displayPhone": "+961 71 358 363",
+  "instagram": "https://www.instagram.com/lisa.styleee/",
+  "hours": "Confirm with the shop",
+  "hero": "/images/collection-02.jpg",
+  "story": "/images/collection-03.jpg",
+  "galleryImages": [
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg"
+  ],
+  "products": [
+    {
+      "id": "zip-lounge-set",
+      "name": "Zip Lounge Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Zip-front top and matching relaxed trousers are grouped in one edit across pink/navy, cream/brown and grey/black colour presentations. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg",
+        "/images/collection-02.jpg",
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/lisa.styleee/p/DeT7Fg6jHt8/"
+    },
+    {
+      "id": "monochrome-tshirt-edit",
+      "name": "Monochrome T-Shirt Edit",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "Three distinct black-and-white T-shirt designs shown in Lisa Style’s public November carousel are grouped as one printed-top edit. Specify the pictured design when enquiring. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg",
+        "/images/collection-05.jpg",
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/lisa.styleee/p/DfxZ__WEYlv/"
+    },
+    {
+      "id": "hooded-lounge-set",
+      "name": "Hooded Lounge Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Hooded top and matching relaxed trousers shown on a rack in brown, pale grey, burgundy and pink colourways. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/lisa.styleee/reel/DeT7Z7jsFF8/"
+    },
+    {
+      "id": "zip-hem-top",
+      "name": "Zip Hem Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "Zip-front long-sleeve top with a gathered hem shown in cream and black. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/lisa.styleee/reel/DeT65N3MyMt/"
+    },
+    {
+      "id": "colour-block-quarter-zip",
+      "name": "Colour-Block Quarter-Zip",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "Long-sleeve quarter-zip tops with a contrasting broad horizontal stripe, shown on Lisa Style’s public page. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/lisa.styleee/reel/DeT7Aees5Iw/"
+    },
+    {
+      "id": "tailored-shorts-edit",
+      "name": "Tailored Shorts Edit",
+      "collection": "Shorts",
+      "audience": "The edit",
+      "family": "",
+      "description": "Button-front shorts shown in dark, grey, light-grey and beige colourways. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/lisa.styleee/reel/DeRMHAasxs-/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

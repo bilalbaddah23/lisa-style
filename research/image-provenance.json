@@ -1,0 +1,132 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-06.jpg",
+    "sha256": "ae4d4d29f4a158acf6aeb44bbe29289197bce86e9f4df3ef7053645552493a03",
+    "originalDimensions": [
+      1320,
+      1562
+    ],
+    "webDimensions": [
+      1320,
+      1562
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-07.jpg",
+    "sha256": "74ae97f3497b4b00bb3776b7adc86a7c5e75e9a2b8f0d357838f3a795488f38b",
+    "originalDimensions": [
+      1320,
+      1562
+    ],
+    "webDimensions": [
+      1320,
+      1562
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-10.jpg",
+    "sha256": "787dd545ebd37a90b8fc21be32b74346e379915b11a42860cc94140f94a80ff3",
+    "originalDimensions": [
+      1320,
+      1562
+    ],
+    "webDimensions": [
+      1320,
+      1562
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-01.jpg",
+    "sha256": "aaea0f83e571fc46212765f21ecf43d019b8c4a77e82cfddeeeb86f63abd6dfa",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-02.jpg",
+    "sha256": "6da80b1108b9bbbc338527f89bb98cd91751e8fc509b0697fedae9f835b00cae",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-05.jpg",
+    "sha256": "367ceabeca54a3157e0b48fb43658b14cf7fb43526eda7a55211353d63612c09",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-04.jpg",
+    "sha256": "26dd9b4090cfe258f3caf1c1af29a17fb9c981dd33b3650930070801a5de8924",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-06.jpg",
+    "sha256": "00d55f9de3d4f5d246ec3651c4500cbfe670da22fdd6868e0d359d5aafe07ef8",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-05.jpg",
+    "sha256": "0c045c2bf64f6adeb85131466210f6caad9f8acbe779cdd69173f27debc3f4a4",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-07.jpg",
+    "sha256": "32ce02d3385bf3f458dd676003b6773ecc55fc8f8dce2afaf4ffe3d7a0df3c78",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  }
+]

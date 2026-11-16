@@ -1,0 +1,549 @@
+{
+  "brand": "Lisa Style",
+  "handle": "lisa.styleee",
+  "instagram": "https://www.instagram.com/lisa.styleee/",
+  "contactMode": "whatsapp",
+  "phone": "96171358363",
+  "displayPhone": "+961 71 358 363",
+  "hours": "Confirm with the shop",
+  "followersObserved": 35103,
+  "followersDisplay": "35.1K",
+  "postCountObserved": 258,
+  "latestVisiblePost": "2026-11-15",
+  "researchDate": "2026-11-16",
+  "profileBio": "Life's too short to blend in, wear crazy clothes!\n✨for orders +961 71 358 363\n✨exchange available within 2 days\n✨worldwide shipping",
+  "bioLinks": [],
+  "branches": [],
+  "about": "Lisa Style is a Lebanese fashion page sharing relaxed coordinated looks, zip-front tops, shorts and printed T-shirt styles. The public bio lists an international Lebanese order number, worldwide shipping and exchange availability within two days. Orders and final item details are confirmed directly with the shop.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-07.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-10.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-01.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-02.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-05.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-06.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-07.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-10.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-04.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-06.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-05.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-07.jpg"
+  ],
+  "products": [
+    {
+      "id": "zip-lounge-set",
+      "name": "Zip Lounge Set",
+      "category": "Coordinated looks",
+      "description": "Zip-front top and matching relaxed trousers are grouped in one edit across pink/navy, cream/brown and grey/black colour presentations. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-06.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-07.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DeT7Fg6jHt8/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "monochrome-tshirt-edit",
+      "name": "Monochrome T-Shirt Edit",
+      "category": "Tops",
+      "description": "Three distinct black-and-white T-shirt designs shown in Lisa Style’s public November carousel are grouped as one printed-top edit. Specify the pictured design when enquiring. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-01.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-02.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DfxZ__WEYlv/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "hooded-lounge-set",
+      "name": "Hooded Lounge Set",
+      "category": "Coordinated looks",
+      "description": "Hooded top and matching relaxed trousers shown on a rack in brown, pale grey, burgundy and pink colourways. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeT7Z7jsFF8/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "zip-hem-top",
+      "name": "Zip Hem Top",
+      "category": "Tops",
+      "description": "Zip-front long-sleeve top with a gathered hem shown in cream and black. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeT65N3MyMt/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "colour-block-quarter-zip",
+      "name": "Colour-Block Quarter-Zip",
+      "category": "Tops",
+      "description": "Long-sleeve quarter-zip tops with a contrasting broad horizontal stripe, shown on Lisa Style’s public page. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeT7Aees5Iw/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "tailored-shorts-edit",
+      "name": "Tailored Shorts Edit",
+      "category": "Shorts",
+      "description": "Button-front shorts shown in dark, grey, light-grey and beige colourways. Confirm current price and availability with Lisa Style. Ask the shop to confirm the pictured pieces, brand details, materials, measurements and sizing. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeRMHAasxs-/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    }
+  ],
+  "assets": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902601567_17996027775069937_2057533478492148597_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cyOuz8v9F0gQ7kNvwHQf8re&_nc_oc=Adqu-B5eGVzVC1Fqur1Bjr4UY0X2L853OkBqM02Q-4HbgsQEn_x3KP_mRTeERwh8Og4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vrBQd_-Hs-kI7s4-ZRc98A&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSSr7UD2c3ZaecbYRRsbpxsFOkx6nVa9wQCBCW336RHvQ&oe=6B000567",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DfxZ__WEYlv/",
+      "alt": "",
+      "width": 480,
+      "height": 640,
+      "sha256": "aaea0f83e571fc46212765f21ecf43d019b8c4a77e82cfddeeeb86f63abd6dfa",
+      "sourceImageType": "Public carousel still/poster image; carousel contains video players",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-11-15",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907130395_17996027736069937_6264982437196246000_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=y7t8_dYqltQQ7kNvwEN-TXr&_nc_oc=AdostWufc-UmBZ2UgK77N69-Jqx9XZLiUuUKsaXL8-FXTND0oRl4Q0E2vrQ3StNU8F0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vrBQd_-Hs-kI7s4-ZRc98A&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQS2o_A_wl0NsXMP4rqjD3cuKhDrFuqzwIClN1975Ahz8A&oe=6B00080B",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DfxZ__WEYlv/",
+      "alt": "",
+      "width": 480,
+      "height": 640,
+      "sha256": "6da80b1108b9bbbc338527f89bb98cd91751e8fc509b0697fedae9f835b00cae",
+      "sourceImageType": "Public carousel still/poster image; carousel contains video players",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-11-15",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902286113_17996027763069937_2332240239319672669_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zeMn-YL4r9sQ7kNvwFJo1mC&_nc_oc=Ado9B2WXAZjiwPXr6Y6t4QqPabUAnysZiQOVW-ChhroDL-UB9D7qhSYfx7grRRe9nl8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vrBQd_-Hs-kI7s4-ZRc98A&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSMtwLePY90aQi35JzKEaqYW_Lp8xVnBLC0CNz1mCDgag&oe=6B000E7F",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DfxZ__WEYlv/",
+      "alt": "",
+      "width": 480,
+      "height": 640,
+      "sha256": "367ceabeca54a3157e0b48fb43658b14cf7fb43526eda7a55211353d63612c09",
+      "sourceImageType": "Public carousel still/poster image; carousel contains video players",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-11-15",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-06.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/843397823_17990036769069937_5320624561806059177_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNDgwNDIyMDY1NjI0MjQyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CQsWyRuwlrwQ7kNvwGY5vUM&_nc_oc=AdqJcQYj5SeU_AkJ1-f7v-oNe4kfuDYidkV7khgw35eZeDlaXlnwYKlrpfyk__d1NQk&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=hXg58g1DInq_ebaurFQ9OQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSltcZeBMzICn76C8WQ1eMLp5wLUhqeoofQISe63K9JDQ&oe=6B0012AA",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DeT7Fg6jHt8/",
+      "alt": "Photo by @lisa.styleee on October 10, 2026. May be an image of sleepwear, top, sweatsuit, parka and text.",
+      "width": 1320,
+      "height": 1562,
+      "sha256": "ae4d4d29f4a158acf6aeb44bbe29289197bce86e9f4df3ef7053645552493a03",
+      "sourceImageType": "Public Instagram photo/carousel still",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-10-10",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-07.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/843449313_17990036790069937_5914133015726052471_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNDgwNDIyNjU3ODM4NDM0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dr2iD62114UQ7kNvwF6dC0X&_nc_oc=AdohWIVjssQFofeVOR5-ZSEjuwOU5Fj5zM6_JdGISIcwxohGwUNmxvEXtGKgcbP7yx4&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=hXg58g1DInq_ebaurFQ9OQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTmwtjYXlDLhjNvNX0-6ddkH5yKjpjcDLHwrkixtEvlWA&oe=6AFFFB7F",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DeT7Fg6jHt8/",
+      "alt": "Photo by @lisa.styleee on October 10, 2026. May be an image of sweatsuit, coat and text.",
+      "width": 1320,
+      "height": 1562,
+      "sha256": "74ae97f3497b4b00bb3776b7adc86a7c5e75e9a2b8f0d357838f3a795488f38b",
+      "sourceImageType": "Public Instagram photo/carousel still",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-10-10",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-10.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/846024022_17990036799069937_5267748596219254590_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNDgwNDIzMzA3OTU4NDEzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dS4N0pUAy1AQ7kNvwGcDt5a&_nc_oc=AdpCJNB51o3oDeNSNIoWVBUc2G6EbMuCBEaVhkCEGH0m-zxZMdWx5ECVSnDhap8U1b0&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=hXg58g1DInq_ebaurFQ9OQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRYm4Tg1fjaaTih5nO2Fkl5J2WlwCh2iXmpD1h8RHOxTA&oe=6AFFEA50",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DeT7Fg6jHt8/",
+      "alt": "Photo by @lisa.styleee on October 10, 2026. May be an image of sweatsuit, drawstring, coat, fleece, sweatpants and text.",
+      "width": 1320,
+      "height": 1562,
+      "sha256": "787dd545ebd37a90b8fc21be32b74346e379915b11a42860cc94140f94a80ff3",
+      "sourceImageType": "Public Instagram photo/carousel still",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-10-10",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/843970506_1795097194971573_5581371527757422316_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=XuT9XTpSLXIQ7kNvwGkhI4U&_nc_oc=AdqYwrOmGwtBhOdtP6gtC5U19GGQ66iHtpn57BS1ywdEh_4EStAMGpyslj5FIHYT874&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I3MS0m-rQce7Nt3ZmVUmPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQgAAAA&oh=00_AQTKm0RSUueqOF5qyDjy-1TdbMPfXZIt84FYEFMhWbOxiw&oe=6AFFE98C",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeT7Z7jsFF8/",
+      "alt": "Video by @lisa.styleee on October 10, 2026. May be an image of sleepwear and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "26dd9b4090cfe258f3caf1c1af29a17fb9c981dd33b3650930070801a5de8924",
+      "sourceImageType": "Public Instagram Reel cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image source/permalink; exact URL downloaded without modification. No video frame extraction or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "postDate": "2026-10-10",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/842970167_1828673311652344_304995961575898444_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9-8tSvVzBKIQ7kNvwEKIDro&_nc_oc=Adpo36uW_D62IJ89lo5sVctXTn5UJ_UGHAKIq8d3MXlX5h3wCGWx0yP-JC13ApDJiq8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I3MS0m-rQce7Nt3ZmVUmPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQgAAAA&oh=00_AQRNS2zsRbRCaVlzYZLkPPdhBFCKawscx_9YbUB0v0OJUw&oe=6B0013FA",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeT65N3MyMt/",
+      "alt": "Video by @lisa.styleee on October 10, 2026. May be an image of outerwear and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "00d55f9de3d4f5d246ec3651c4500cbfe670da22fdd6868e0d359d5aafe07ef8",
+      "sourceImageType": "Public Instagram Reel cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image source/permalink; exact URL downloaded without modification. No video frame extraction or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "postDate": "2026-10-10",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/842206765_1725639165191454_5067921157374031854_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=M1R-rPKGHoMQ7kNvwHkX2dj&_nc_oc=AdqsuSKIxDooff0sCRhl3tLJgHngX8nnTfMcXNroOcpmFOzFePtzpgS5npkdqSrViM4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I3MS0m-rQce7Nt3ZmVUmPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQgAAAA&oh=00_AQTgHMBvbnreJY0yxO7AWv_RVI3Z02MNDl-pEKdw634j7w&oe=6B0010B7",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeT7Aees5Iw/",
+      "alt": "Video by @lisa.styleee on October 10, 2026. May be an image of headscarf, clothes hanger, outerwear and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "0c045c2bf64f6adeb85131466210f6caad9f8acbe779cdd69173f27debc3f4a4",
+      "sourceImageType": "Public Instagram Reel cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image source/permalink; exact URL downloaded without modification. No video frame extraction or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "postDate": "2026-10-10",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/841544853_1070033875668915_4802893494441886309_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cunw4E5j12kQ7kNvwFQum1Q&_nc_oc=AdroYww08sFxdu3cZL-9bGluqFGp3uP9na_Vi0V-c6vblZRvt3SRB0G8EJVo3xT5qXU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I3MS0m-rQce7Nt3ZmVUmPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQgAAAA&oh=00_AQTG7UUQxgDWpCQUXYxL83HTbrXz5_86C_HhDCw3cmZHUg&oe=6B00056F",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeRMHAasxs-/",
+      "alt": "Video by @lisa.styleee on October 09, 2026. May be an image of shorts and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "32ce02d3385bf3f458dd676003b6773ecc55fc8f8dce2afaf4ffe3d7a0df3c78",
+      "sourceImageType": "Public Instagram Reel cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image source/permalink; exact URL downloaded without modification. No video frame extraction or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "postDate": "2026-10-09",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": true
+    }
+  ],
+  "provenance": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902601567_17996027775069937_2057533478492148597_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cyOuz8v9F0gQ7kNvwHQf8re&_nc_oc=Adqu-B5eGVzVC1Fqur1Bjr4UY0X2L853OkBqM02Q-4HbgsQEn_x3KP_mRTeERwh8Og4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vrBQd_-Hs-kI7s4-ZRc98A&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSSr7UD2c3ZaecbYRRsbpxsFOkx6nVa9wQCBCW336RHvQ&oe=6B000567",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DfxZ__WEYlv/",
+      "alt": "",
+      "width": 480,
+      "height": 640,
+      "sha256": "aaea0f83e571fc46212765f21ecf43d019b8c4a77e82cfddeeeb86f63abd6dfa",
+      "sourceImageType": "Public carousel still/poster image; carousel contains video players",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-11-15",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907130395_17996027736069937_6264982437196246000_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=y7t8_dYqltQQ7kNvwEN-TXr&_nc_oc=AdostWufc-UmBZ2UgK77N69-Jqx9XZLiUuUKsaXL8-FXTND0oRl4Q0E2vrQ3StNU8F0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vrBQd_-Hs-kI7s4-ZRc98A&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQS2o_A_wl0NsXMP4rqjD3cuKhDrFuqzwIClN1975Ahz8A&oe=6B00080B",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DfxZ__WEYlv/",
+      "alt": "",
+      "width": 480,
+      "height": 640,
+      "sha256": "6da80b1108b9bbbc338527f89bb98cd91751e8fc509b0697fedae9f835b00cae",
+      "sourceImageType": "Public carousel still/poster image; carousel contains video players",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-11-15",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902286113_17996027763069937_2332240239319672669_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zeMn-YL4r9sQ7kNvwFJo1mC&_nc_oc=Ado9B2WXAZjiwPXr6Y6t4QqPabUAnysZiQOVW-ChhroDL-UB9D7qhSYfx7grRRe9nl8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vrBQd_-Hs-kI7s4-ZRc98A&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSMtwLePY90aQi35JzKEaqYW_Lp8xVnBLC0CNz1mCDgag&oe=6B000E7F",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DfxZ__WEYlv/",
+      "alt": "",
+      "width": 480,
+      "height": 640,
+      "sha256": "367ceabeca54a3157e0b48fb43658b14cf7fb43526eda7a55211353d63612c09",
+      "sourceImageType": "Public carousel still/poster image; carousel contains video players",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-11-15",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-06.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/843397823_17990036769069937_5320624561806059177_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNDgwNDIyMDY1NjI0MjQyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CQsWyRuwlrwQ7kNvwGY5vUM&_nc_oc=AdqJcQYj5SeU_AkJ1-f7v-oNe4kfuDYidkV7khgw35eZeDlaXlnwYKlrpfyk__d1NQk&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=hXg58g1DInq_ebaurFQ9OQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSltcZeBMzICn76C8WQ1eMLp5wLUhqeoofQISe63K9JDQ&oe=6B0012AA",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DeT7Fg6jHt8/",
+      "alt": "Photo by @lisa.styleee on October 10, 2026. May be an image of sleepwear, top, sweatsuit, parka and text.",
+      "width": 1320,
+      "height": 1562,
+      "sha256": "ae4d4d29f4a158acf6aeb44bbe29289197bce86e9f4df3ef7053645552493a03",
+      "sourceImageType": "Public Instagram photo/carousel still",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-10-10",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-07.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/843449313_17990036790069937_5914133015726052471_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNDgwNDIyNjU3ODM4NDM0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dr2iD62114UQ7kNvwF6dC0X&_nc_oc=AdohWIVjssQFofeVOR5-ZSEjuwOU5Fj5zM6_JdGISIcwxohGwUNmxvEXtGKgcbP7yx4&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=hXg58g1DInq_ebaurFQ9OQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTmwtjYXlDLhjNvNX0-6ddkH5yKjpjcDLHwrkixtEvlWA&oe=6AFFFB7F",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DeT7Fg6jHt8/",
+      "alt": "Photo by @lisa.styleee on October 10, 2026. May be an image of sweatsuit, coat and text.",
+      "width": 1320,
+      "height": 1562,
+      "sha256": "74ae97f3497b4b00bb3776b7adc86a7c5e75e9a2b8f0d357838f3a795488f38b",
+      "sourceImageType": "Public Instagram photo/carousel still",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-10-10",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-carousel-10.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/846024022_17990036799069937_5267748596219254590_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNDgwNDIzMzA3OTU4NDEzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dS4N0pUAy1AQ7kNvwGcDt5a&_nc_oc=AdpCJNB51o3oDeNSNIoWVBUc2G6EbMuCBEaVhkCEGH0m-zxZMdWx5ECVSnDhap8U1b0&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=hXg58g1DInq_ebaurFQ9OQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRYm4Tg1fjaaTih5nO2Fkl5J2WlwCh2iXmpD1h8RHOxTA&oe=6AFFEA50",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/p/DeT7Fg6jHt8/",
+      "alt": "Photo by @lisa.styleee on October 10, 2026. May be an image of sweatsuit, drawstring, coat, fleece, sweatpants and text.",
+      "width": 1320,
+      "height": 1562,
+      "sha256": "787dd545ebd37a90b8fc21be32b74346e379915b11a42860cc94140f94a80ff3",
+      "sourceImageType": "Public Instagram photo/carousel still",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-10-10",
+      "observationMethod": "Exact root-observed rendered public Instagram carousel DOM image source, downloaded without URL manipulation, image generation, upscaling or video frame extraction.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/843970506_1795097194971573_5581371527757422316_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=XuT9XTpSLXIQ7kNvwGkhI4U&_nc_oc=AdqYwrOmGwtBhOdtP6gtC5U19GGQ66iHtpn57BS1ywdEh_4EStAMGpyslj5FIHYT874&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I3MS0m-rQce7Nt3ZmVUmPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQgAAAA&oh=00_AQTKm0RSUueqOF5qyDjy-1TdbMPfXZIt84FYEFMhWbOxiw&oe=6AFFE98C",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeT7Z7jsFF8/",
+      "alt": "Video by @lisa.styleee on October 10, 2026. May be an image of sleepwear and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "26dd9b4090cfe258f3caf1c1af29a17fb9c981dd33b3650930070801a5de8924",
+      "sourceImageType": "Public Instagram Reel cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image source/permalink; exact URL downloaded without modification. No video frame extraction or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "postDate": "2026-10-10",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/842970167_1828673311652344_304995961575898444_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9-8tSvVzBKIQ7kNvwEKIDro&_nc_oc=Adpo36uW_D62IJ89lo5sVctXTn5UJ_UGHAKIq8d3MXlX5h3wCGWx0yP-JC13ApDJiq8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I3MS0m-rQce7Nt3ZmVUmPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQgAAAA&oh=00_AQRNS2zsRbRCaVlzYZLkPPdhBFCKawscx_9YbUB0v0OJUw&oe=6B0013FA",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeT65N3MyMt/",
+      "alt": "Video by @lisa.styleee on October 10, 2026. May be an image of outerwear and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "00d55f9de3d4f5d246ec3651c4500cbfe670da22fdd6868e0d359d5aafe07ef8",
+      "sourceImageType": "Public Instagram Reel cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image source/permalink; exact URL downloaded without modification. No video frame extraction or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "postDate": "2026-10-10",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/842206765_1725639165191454_5067921157374031854_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=M1R-rPKGHoMQ7kNvwHkX2dj&_nc_oc=AdqsuSKIxDooff0sCRhl3tLJgHngX8nnTfMcXNroOcpmFOzFePtzpgS5npkdqSrViM4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I3MS0m-rQce7Nt3ZmVUmPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQgAAAA&oh=00_AQTgHMBvbnreJY0yxO7AWv_RVI3Z02MNDl-pEKdw634j7w&oe=6B0010B7",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeT7Aees5Iw/",
+      "alt": "Video by @lisa.styleee on October 10, 2026. May be an image of headscarf, clothes hanger, outerwear and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "0c045c2bf64f6adeb85131466210f6caad9f8acbe779cdd69173f27debc3f4a4",
+      "sourceImageType": "Public Instagram Reel cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image source/permalink; exact URL downloaded without modification. No video frame extraction or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "postDate": "2026-10-10",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": true
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\lisa-style\\images\\lisa-cover-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/841544853_1070033875668915_4802893494441886309_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cunw4E5j12kQ7kNvwFQum1Q&_nc_oc=AdroYww08sFxdu3cZL-9bGluqFGp3uP9na_Vi0V-c6vblZRvt3SRB0G8EJVo3xT5qXU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I3MS0m-rQce7Nt3ZmVUmPg&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQgAAAA&oh=00_AQTG7UUQxgDWpCQUXYxL83HTbrXz5_86C_HhDCw3cmZHUg&oe=6B00056F",
+      "sourcePost": "https://www.instagram.com/lisa.styleee/reel/DeRMHAasxs-/",
+      "alt": "Video by @lisa.styleee on October 09, 2026. May be an image of shorts and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "32ce02d3385bf3f458dd676003b6773ecc55fc8f8dce2afaf4ffe3d7a0df3c78",
+      "sourceImageType": "Public Instagram Reel cover still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image source/permalink; exact URL downloaded without modification. No video frame extraction or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-16. No image generation, video-frame extraction, URL resizing or upscaling. Public business-posted imagery; original copyright ownership, underlying photo authenticity and branded-garment authenticity not independently verified.",
+      "postDate": "2026-10-09",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": true
+    }
+  ],
+  "usedImages": 10,
+  "contactEvidence": {
+    "source": "https://www.instagram.com/lisa.styleee/",
+    "observation": "Full rendered public bio and independently retrieved public HTML description metadata both explicitly state +96171358363 for orders. Latest November15 carousel caption separately says Whatsapp71358363. No number or country-code inference required.",
+    "rawBioPhone": "+961 71 358 363",
+    "rawRecentCaption": "Whatsapp 71358363",
+    "normalizedWhatsAppLink": "https://wa.me/96171358363",
+    "whatsappAccountOwnershipTested": false
+  },
+  "websiteScreening": {
+    "observedDate": "2026-11-16",
+    "instagram": "https://www.instagram.com/lisa.styleee/",
+    "result": "No matching official website found in full primary profile bio/link review and bounded handle/name/contact searches. An unlisted website cannot be ruled out.",
+    "queries": [
+      "\"lisa.styleee\" website shop",
+      "\"lisa.styleee\" Lebanon",
+      "\"Lisa Style\" Lebanon clothing website",
+      "\"lisa.styleee\" -site:pictame.com -site:pikory.com",
+      "\"lisa.styleee\" website -site:pictame.com -site:pikory.com -site:abuseipdb.com",
+      "\"96171358363\"",
+      "\"71358363\" clothing shop",
+      "\"71 358 363\" clothing website"
+    ],
+    "independentlyConfirmedContact": "+961 71 358 363",
+    "contactEvidence": "Primary Instagram public HTML description metadata says for orders +961 71 358 363. No inference of country prefix is needed.",
+    "collisionsExcluded": [
+      {
+        "url": "https://modalisastyle.com/",
+        "reason": "Site describes Lisa Andreola-Kelly, US fashion styling/image consulting. Different identity and service, no match to exact Instagram handle or Lebanese order phone."
+      },
+      {
+        "url": "https://www.mecshopping.it/en/collections/lisa-style",
+        "reason": "Italian retailer collection for a clothing label Lisa Style; no matching handle or Lebanese contact, not evidence of this shop's official website."
+      }
+    ],
+    "primaryProfileReviewed": true,
+    "allBioLinksReviewed": true,
+    "limitations": "An unlisted site cannot be ruled out without owner confirmation. No owner contact was made. Search outputs unrelated to the identity/contact were not treated as business evidence.",
+    "bioLinkReview": "Root reviewed the complete rendered public Instagram bio on November16. No external website or Maps bio link was visible. Child independently confirmed full contact/caption metadata from public profile HTML."
+  },
+  "activityEvidence": [
+    {
+      "source": "https://www.instagram.com/lisa.styleee/p/DfxZ__WEYlv/",
+      "date": "2026-11-15",
+      "observation": "Root verified rendered public carousel timestamp 2026-11-15T18:17:53.000Z and caption Whatsapp71358363. The carousel contains video players and exposes still poster images; no videos were downloaded."
+    },
+    {
+      "source": "https://www.instagram.com/lisa.styleee/p/DeT7Fg6jHt8/",
+      "date": "2026-10-10",
+      "observation": "Root traversed three normal-photo carousel slides. Full-resolution served photo sources downloaded natively1320x1562."
+    }
+  ],
+  "restrictions": [
+    "10 selected unique images:3truephoto-carouselstills at1320x1562,3publiccarouselposter/covers at480x640,4publicReelcovers at361x640. No source was upscaled and no video frames were extracted.",
+    "Two pairs of Reel covers reuse the same underlying photo with different text overlays:cover1/4 andcover2/6. Onlycover4 andcover6selected. Byte-identical carousel repeats were also removed.",
+    "An ambiguous garment held by a model incover3was excluded. Three text-only pinned posts and all profile/highlight pictures were excluded.",
+    "Some posted photographs include baked-in prices from October2026. These are historical image text, not verified current selling prices. Catalogue prices are null; visible product descriptions instruct customers to confirm current price and availability.",
+    "T-shirt/poster photographs and one top cover contain third-party brand logos. Product labels do not claim genuine branded authenticity, authorized retail status or official brand affiliation. Brand details require owner confirmation.",
+    "One excluded duplicate topcover2contains an unrelated @friki_shop watermark. The underlying photo is also present inselectedcover6onLisaStyle’s public page; original photo ownership is unverified and must be reviewed by the owner before finalcommerciallaunch.",
+    "Root did not observe AI-content labels on the reviewed posts. Underlying photographic authenticity has not been independently established.",
+    "No precise physical branch, trading hours, delivery charges, payment methods or full exchange conditions were verified. Do not invent them.",
+    "Only six grouped garment edits were created; alternate colours and repeated source imagery are not padded into separate products."
+  ],
+  "sources": [
+    {
+      "url": "https://www.instagram.com/lisa.styleee/",
+      "kind": "Primary public profile:root rendered bio/links,child HTTPmetadata"
+    },
+    {
+      "url": "https://www.instagram.com/lisa.styleee/p/DfxZ__WEYlv/",
+      "kind": "Primary currentpublicmixedcarousel"
+    },
+    {
+      "url": "https://www.instagram.com/lisa.styleee/p/DeT7Fg6jHt8/",
+      "kind": "Primary three-slidephotocarousel"
+    }
+  ]
+}
